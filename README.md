@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 <h1 align="center">Hi 👋, I'm Abdullah Samet</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
